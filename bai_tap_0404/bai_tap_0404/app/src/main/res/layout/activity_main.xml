@@ -137,7 +137,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="32dp"
-                android:text="Nguyễn Thị Hồng Hà"
+                android:text="Đào Thanh Tú"
                 android:textColor="#666666"
                 android:textSize="16sp" />
         </TableRow>
